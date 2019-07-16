@@ -1,0 +1,9 @@
+.judul{
+  text-decoration: underline;
+}
+
+[type="button"]{
+  font-size: 25px;
+  color: gold;
+  cursor: pointer;
+}
